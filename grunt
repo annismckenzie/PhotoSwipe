@@ -1,2 +1,2 @@
-#!/bin/sh
-grunt
+#!/bin/bash
+/usr/local/bin/grunt $*
