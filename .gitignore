@@ -29,9 +29,5 @@ website/dist/
 /.idea
 .node-version
 .sass-cache/
-
-
-
-
-
-
+.yarn-cache
+dist
